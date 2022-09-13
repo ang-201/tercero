@@ -1,0 +1,34 @@
+¿QUien?
+Denis Ritchie y Brian Kernighan
+
+
+¿Como?
+Desarrollado como evolucion de A y B, para generar un sistema operativo estable
+
+¿Donde?
+Laboratorios Bell, hoy AT&T
+
+
+
+¿Què?
+
+Lenguaje fuertamente tipado multiproposito
+Estructura de C - Lenguaje estructurado.
+    Programación de nivel medio (beneficiándose de las ventajas de la programación de alto y bajo nivel).
+    No depende del hardware, por lo que se puede migrar a otros sistemas.
+    Objetivos generales. No es un lenguaje para una tarea específica, pudiendo programar tanto un sistema operativo, una hoja de cálculo o un juego.
+    Ofrece un control absoluto de todo lo que sucede en el ordenador.
+    Organización del trabajo con total libertad.
+    Los programas son producidos de forma rápida y son bastante potentes.
+    Rico en tipo de datos, operadores y variables en C.
+
+
+
+
+
+
+
+
+
+
+
